@@ -4,10 +4,14 @@
     box-sizing: border-box;
 
 }
+#nav{
+    background-color:blueviolet;
+}
 #menu{
     display: flex;
     width: 50%;
     justify-content: space-around;
+    background-color: aqua;
 }
 #menu li{
     list-style: none;
