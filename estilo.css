@@ -5,15 +5,19 @@
 
 }
 #nav{
-    background-color:blueviolet;
+    background-color: black;
+    align-items: center;
+    height: 150px;
+    
 }
 #menu{
     display: flex;
-    width: 50%;
+    width: 100%;
     justify-content: space-around;
-    background-color: aqua;
+    text-align: center;
 }
 #menu li{
     list-style: none;
+    padding: 2em;
     
 }
